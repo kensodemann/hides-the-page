@@ -1,0 +1,7 @@
+{
+  "name": "hide-the-page",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
